@@ -1,0 +1,22 @@
+# Archivos multimedia pesados (se almacenan en Google Drive o almacenamiento local de edición)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+
+# Proyectos de edición pesados
+*.prproj
+*.aep
+*.drp
+
+# Archivos del sistema operativo y temporales
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.tmp
+*.bak
+.tmp.driveupload/
