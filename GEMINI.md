@@ -19,3 +19,7 @@ Este archivo define las reglas obligatorias de empaque, títulos y miniaturas ap
 ## 3. Optimización Mobile de Títulos
 - **Front-loading:** Colocar el beneficio o dolor directo ("vacía tu bolsillo") en los primeros 45 caracteres antes del corte en feed móvil.
 - **Sin palabras muertas:** Eliminar prefijos genéricos como `"Clima:"` o etiquetas vacías al inicio.
+
+## 4. Reglas de Interacción y Modificación del Repositorio
+- **Aprobación Previa Obligatoria:** Nunca actualizar, crear ni sobreescribir archivos en los repositorios o carpetas locales de forma automática.
+- **Propuesta por Chat:** Toda modificación, guion, idea o ajuste de código debe ser propuesto y discutido en el chat primero. Solo se ejecutarán los cambios en el sistema local cuando el usuario dé una orden explícita para hacerlo.
