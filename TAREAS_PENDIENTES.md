@@ -4,20 +4,25 @@ Este archivo registra el pipeline activo de producción. Al cierre de cada sesi�
 
 ---
 
-## 🚀 En Curso: Video 06 (El Niño 2027)
+## 🚀 En Curso: Serie "What If..." Geopolítico
 
-- **Título Aprobado:** *El golpe a tu comida en 2027 que ningún político puede frenar*
-- [x] Guion redactado y ajustado al manual de estilo (~6 min).
-- [x] Empaque auditado con metodología vidIQ (front-loading móvil y curiosity gap).
-- [x] Miniatura principal generada y calificada con 85/100 (`mini-06_v1_agua.jpg` - "ESTO YA EMPEZÓ").
-- [x] Miniatura de reserva / test A/B generada (`mini-06_v2_sequia.jpg`).
-- [ ] **Siguiente paso:** Grabación de voz en off (Jorge).
-- [ ] Edición de video.
-- [ ] Publicación con descripción y capítulos optimizados para SEO.
+- **Episodio 1: Brasil 2026 (Flávio Bolsonaro y BRICS)**
+  - [x] Guion redactado con enfoque en BRICS Pay y alianza con Milei.
+  - [x] Empaque y SEO validados por vidIQ.
+  - [ ] **Siguiente paso:** Creación y A/B test de miniaturas.
+  - [ ] Grabación y Edición.
+
+- **Episodio 2: Argentina 2027 (Regreso del Kirchnerismo)**
+  - [x] Título validado: *¿Qué pasará si MILEI PIERDE en 2027? El efecto dominó en Argentina* (Score 93).
+  - [x] Guion redactado con estructura de Contraste (Espejismo K vs 10 Reformas Destruidas).
+  - [x] Guion dividido en 3 documentos: Texto (Narrador), Indicaciones (Narrador) y Mapa Visual (Editor).
+  - [x] Ideas de miniaturas redactadas (`02_miniaturas/IDEAS_MINIATURAS_EP02.md`).
+  - [ ] **Siguiente paso:** Generación gráfica de la miniatura.
+  - [ ] Grabación y Edición.
 
 ---
 
-## 🔜 Próximos Videos en Radar (Ideación y Validación VidIQ)
+## 🔜 Próximos Videos en Radar
 
-1. **Video 07:** Definir próximo tema de política/geopolítica internacional o impacto regional.
-2. **Auditoría de Métricas:** Registrar rendimiento del Video 05 y 06 una vez publicados.
+1. **Episodio 3 (USA):** Impacto de Donald Trump en la geopolítica y el Dólar.
+2. **Episodio 4 (Francia/Europa):** Marine Le Pen y el colapso de la UE.

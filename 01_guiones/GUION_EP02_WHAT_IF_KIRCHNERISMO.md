@@ -1,79 +1,124 @@
-# GUION: WHAT IF - ¿Qué pasaría si vuelve el kirchnerismo en 2027?
+# Guion Episodio 2: "¿Qué pasará si MILEI PIERDE en 2027? El efecto dominó en Argentina"
 
-**Duración estimada:** 10:00 - 10:30 minutos (aprox. 1350 palabras)
-**Tono:** Analítico, urgente, realista (sin sesgo militante, enfocado en el impacto financiero).
-**Estética Visual:** Avatar IA dinámico, gráficos superpuestos, ritmo rápido.
+**Serie:** What If... Geopolítico
+**Título Principal:** ¿Qué pasará si MILEI PIERDE en 2027? El efecto dominó en Argentina
+**Títulos Alternativos:**
+- Elecciones 2027: el regreso K y lo que se lleva puesto en 24 horas (Score: 85)
+- Si el Kirchnerismo VUELVE en 2027: las 10 cosas que pierde la clase trabajadora (Score: 84)
 
----
+**Tags:** `elecciones argentina 2027, cristina fernandez de kirchner, peronismo, kirchnerismo, milei, javier milei, politica argentina, economia, dolar, islas malvinas, crisis economica argentina, kicillof, noticias`
 
-## [0:00 - 1:00] EL GANCHO: LA ONDA EXPANSIVA
-**(Ritmo rápido. Cero introducciones largas. Directo al punto).**
+**Descripción del video (para SEO - no se lee):**
+¿Qué pasaría si el kirchnerismo gana las elecciones de 2027 en Argentina? Analizamos el efecto dominó sobre la economía, el dólar, las Islas Malvinas, el FMI y la vida cotidiana de la clase trabajadora. Escenario de proyección geopolítica basado en datos reales. Palabras clave: kirchnerismo 2027, cristina fernandez de kirchner, peronismo, elecciones argentina 2027, kicillof candidato, javier milei pierde, dolar argentina, malvinas 2027.
 
-**[VISUAL: Avatar IA en el centro. Fondo oscuro. Gráfico rojo sutil de fondo]**
-**AVATAR:** Año 2027. Javier Milei pierde las elecciones y el kirchnerismo recupera el poder. 
-
-**[VISUAL: Aparece en pantalla un reloj de cuenta regresiva marcando el "10 de diciembre"]**
-**AVATAR:** Te hablan de este escenario advirtiéndote de "la bomba" que va a estallar el 10 de diciembre... como si no supieras ya que en Argentina nos explota una bomba cada cuatro años. 
-
-**[VISUAL: El reloj explota o desaparece, reemplazado por ondas de choque (radar) que se expanden hacia la cámara]**
-**AVATAR:** El problema nunca fue la bomba, eso ya lo sabemos. Lo que nadie te explica es cómo medir y afrontar *la onda expansiva*. Y esa onda viaja mucho más rápido de lo que creés. 
-
-**[VISUAL: Acercamiento al rostro del avatar, expresión seria]**
-**AVATAR:** ¿Cuánto tiempo de reacción tenés realmente? Si vas a esperar a ver qué dicen las encuestas para protegerte, ya llegaste tarde. Los mercados y el dinero no esperan a que se cuenten los votos. Hoy vamos a simular esa onda expansiva. Cuáles son las señales exactas que tenés que mirar antes del 2027 para no ser el último en enterarte, y cómo anticiparte. Quédate, porque tu tiempo de reacción empieza ahora.
+**Nota de producción (CHECK-LIST VISUAL):**
+- Usar timestamps/capítulos en YouTube para cada sección.
+- En el bloque del check-list (min 7:30 en adelante): mostrar gráfico animado con cada ítem tachándose en rojo en tiempo real mientras el narrador lo menciona.
+- Los 10 ítems del check-list deben estar listados textualmente en la descripción del video (son imán de búsqueda orgánica).
+- **Comentario fijado sugerido:** *"⚠️ Este video es un ejercicio de proyección geopolítica, no una predicción. Y la pregunta que cambia todo: si el kirchnerismo vuelve en 2027, ¿llega con Cristina, con Kicillof, o con alguien que todavía no vemos? ¿Cambia algo para vos? Debate abajo 👇"*
 
 ---
 
-## [1:00 - 3:00] EL ATERRIZAJE HUMANO: LA TRAMPA DE LOS PESOS
-**(Bajar la macroeconomía al bolsillo. Usar el dato de las billeteras virtuales).**
+## 🎬 [0:00 - 1:00] HOOK: El Efecto Dominó
 
-**[VISUAL: Texto en pantalla: "ENERO 2026: $900" vs "SEPTIEMBRE 2026: $500". Iconos de billeteras virtuales o fondos comunes]**
-**AVATAR:** Para entender qué tan expuesto estás a esa onda expansiva, ni siquiera tenemos que viajar al 2027. Miremos tu propia cuenta bancaria hoy. Si a principios de este año, en enero de 2026, tenías liquidez en un Fondo FIMA o en cualquier billetera virtual, te pagaban unos 900 pesos diarios por cada millón. Eso era una Tasa Nominal Anual que rondaba el 33%. 
+**[VISUAL: Música de tensión creciente. Piezas de dominó cayendo: escudo nacional → dólar → mapa de Malvinas → logo de Aerolíneas → FMI.]**
 
-**[VISUAL: El gráfico de rendimiento cae. Los 900 se transforman en 500]**
-**AVATAR:** Hoy, septiembre de 2026, ese mismo millón te rinde con suerte 500 pesos diarios. La tasa cayó a la zona del 18%. Te cortaron el rendimiento casi a la mitad en silencio, licuando la rentabilidad de tener pesos inmovilizados. 
+**NARRADOR:** Todo el mundo se hace la misma pregunta equivocada: *¿Qué pasa si Javier Milei pierde las elecciones en 2027?* Y la respuesta no es "cambia el presidente". La respuesta es el **Efecto Dominó**.
 
-**[VISUAL: Cambio a plano medio del avatar. Texto: "TIEMPO DE REACCIÓN"]**
-**AVATAR:** Si hoy, con un mercado "tranquilo", tu colchón de pesos rinde cada vez menos para cubrirte de cualquier salto del dólar... imaginate dónde vas a estar parado cuando la onda expansiva del cambio de gobierno golpee al mercado. Cuando los grandes capitales huelan que el kirchnerismo tiene chances reales de volver, van a dolarizar sus carteras no en meses, sino en cuestión de horas. Y si vos dejás tus ahorros durmiendo en ese fondo que te da apenas 500 pesos, la corrida te va a pasar por encima antes de que abras la aplicación.
+Hoy en Argentina, el gobierno de La Libertad Avanza está clavando banderas muy específicas: el déficit cero, el alineamiento con Estados Unidos, la negociación con el FMI, el reclamo activo por las **Islas Malvinas** y una serie de reformas que tocan tu vida cotidiana. Son pequeñas victorias sostenidas con alfileres.
 
----
+**[VISUAL: Sonido de cristal rompiéndose. Todas las piezas de dominó caen en cadena.]**
 
-## [3:00 - 5:30] FASE 1: EL ESPEJISMO DE LAS ENCUESTAS 
-**(El temblor de los mercados antes de las urnas).**
+**NARRADOR:** Imagina que en 2027, el kirchnerismo regresa al poder. No asumirían para administrar lo que dejó Milei. Asumirían para demolerlo el Día 1. Y no es una suposición: es ideología pura.
 
-**[VISUAL: Gráfico de barras de encuestas electorales (borroso) vs. Gráfico de líneas de bonos soberanos (nítido)]**
-**AVATAR:** La primera fase de la onda expansiva pega seis meses antes de las elecciones. El peor error que podés cometer es mirar las encuestas de opinión. Las encuestas son ruido; los precios de los bonos son la señal.
-
-**[VISUAL: Recortes de noticias o simulación de la bolsa de Nueva York cayendo]**
-**AVATAR:** En Argentina, el mercado siempre anticipa la jugada. Si las probabilidades matemáticas de una derrota de Milei superan el 40%, vas a ver un comportamiento brutal en los bonos soberanos. ¿Por qué? Porque Wall Street sabe que el principal objetivo de un gobierno de corte kirchnerista, por una cuestión ideológica y de necesidad de caja, es desarmar el andamiaje fiscal. Van a empezar a vender posiciones argentinas. 
-
-**[VISUAL: Aparece la palabra "RIESGO PAÍS" subiendo rápidamente en rojo]**
-**AVATAR:** El riesgo país no es un número abstracto en la tele. Cuando el riesgo país sube meses antes de las elecciones, le está cerrando el crédito a las empresas argentinas. Eso significa menos inversión y, de rebote inmediato, una presión sobre los dólares paralelos. Si esperás al domingo a la noche para comprar dólares o cubrirte, vas a pagar el precio del pánico. El que leyó el mercado de bonos en julio, se protegió barato. El que miró las encuestas en octubre, compró caro.
+¿Pero sería todo un desastre? ¿O habría ganadores? Hoy te voy a mostrar los dos lados: **el espejismo positivo del primer año K** y luego el aterrador check-list de las **10 cosas de tu vida diaria que se convertirían en polvo en cuestión de horas**. Porque las Islas Malvinas, el dólar y tu sueldo tienen mucho más en común de lo que creés.
 
 ---
 
-## [5:30 - 8:30] FASE 2: EL VACÍO DE PODER Y EL DÍA 1
-**(El pánico de la transición y el cambio estructural de reglas).**
+## 📈 [1:00 - 3:00] CAPÍTULO 1: "El Espejismo" — Lo positivo del regreso K
 
-**[VISUAL: Un calendario marcando los días entre noviembre (balotaje) y diciembre (asunción)]**
-**AVATAR:** Llegamos a la segunda fase. Supongamos que ocurre. El kirchnerismo gana. El periodo más peligroso de la historia económica reciente no es el gobierno en sí, es la transición. Son esos 20 o 30 días de vacío de poder. 
+**[VISUAL: Música esperanzadora pero con un tono ligeramente engañoso. Imágenes de gente comprando, fábricas locales encendidas, jubilados cobrando.]**
 
-**[VISUAL: Animación de persianas de comercios bajando, cajas de mercadería bloqueadas]**
-**AVATAR:** En esa ventana, la onda expansiva paraliza la economía real. Ante la certeza de que el nuevo gobierno va a intentar volver a esquemas de control de precios, cepos más estrictos o aumentos de retenciones, ¿qué hace el productor? No vende. ¿Qué hace el proveedor? No entrega lista de precios. ¿Qué hace el dueño de un departamento? Lo saca del mercado de alquileres por miedo a una nueva ley. La economía se congela de forma preventiva.
+**NARRADOR:** Para ser justos, el Día 1 del regreso kirchnerista traería alivio inmediato y concreto para millones de personas. No podemos ignorarlo, porque sería real y lo sentiría la gente en el bolsillo casi de inmediato. ¿Cuáles serían esos puntos positivos?
 
-**[VISUAL: Avatar con tono grave. Gráficos de inflación acelerando preventivamente]**
-**AVATAR:** Y esto nos lleva al Día 1. El regreso del kirchnerismo en 2027 no sería con la soja a precios récord como en 2003, ni con un Banco Central lleno como en otras épocas. La primera necesidad va a ser emitir para financiar el aumento inmediato del gasto público y cumplir con las promesas de campaña. Eso significa que la onda expansiva va a pegar directo en la inflación base. Si el ancla fiscal de Milei se rompe, los precios se reacomodan no a la inflación de ese mes, sino a la expectativa de la inflación del año siguiente. 
+**Primero:** el **congelamiento de tarifas**. La luz, el gas y el boleto de colectivo volverían a ser fuertemente subsidiados. Un respiro inmediato para la clase media y baja después de años de tarifazos.
+
+**Segundo:** el **consumo subsidiado**. Volverían los programas tipo "Ahora 12" y "Ahora 24" con tasas de interés irreales, generando un boom de consumo a corto plazo en electrodomésticos, ropa y turismo interno.
+
+**Tercero:** la **protección industrial**. Al cerrar nuevamente las importaciones, fábricas nacionales y ensambladoras en Tierra del Fuego volverían a tener el monopolio del mercado interno, protegiendo los puestos de trabajo de sindicatos como SMATA y la UOM.
+
+**Cuarto:** el **Estado presente**. Vuelve el presupuesto al CONICET, al INCAA, a las universidades. Y, lo que más impacto social tiene: las **moratorias jubilatorias masivas**, que incorporan a millones de personas al sistema previsional que hoy están afuera.
+
+**[VISUAL: Pausa dramática. Cambio de música. Tono grave.]**
+
+**NARRADOR:** Esa es la fiesta. Es consumo inmediato. Es alivio en la canasta. Pero como toda fiesta en Argentina... alguien tiene que pagarla. Y siempre termina pagándola quien menos puede.
 
 ---
 
-## [8:30 - 10:00] LA ONDA EXPANSIVA GEOPOLÍTICA Y CONCLUSIÓN
-**(Cierre y Call to Action).**
+## 💸 [3:00 - 5:30] CAPÍTULO 2: La Factura — FMI, Dólar e Inflación
 
-**[VISUAL: Mapa mundial. Flechas cambiando de Estados Unidos/Europa hacia China/Rusia]**
-**AVATAR:** Finalmente, la onda expansiva cruza las fronteras. En menos de 100 días, veríamos un giro de 180 grados en política exterior. Volver a priorizar alianzas con los BRICS y China implica repensar todas las inversiones energéticas y tecnológicas que se estaban negociando con Occidente bajo el RIGI o regímenes similares. Es un cambio de reglas del juego a nivel global que frena los dólares reales de inversión.
+**[VISUAL: Gráfico de riesgo país disparándose hacia arriba. Imágenes de impresoras de billetes, cepo cambiario.]**
 
-**[VISUAL: Avatar mirando fijamente, fondo limpiándose hacia un tono neutro]**
-**AVATAR:** Entonces, vuelvo a preguntarte: ¿cuánto tiempo de reacción tenés? 
-La política argentina está diseñada para que el ciudadano de a pie sea el último en enterarse y el primero en pagar los platos rotos. Si entendés que la bomba no explota el 10 de diciembre, sino que la onda expansiva viaja desde el momento en que las encuestas mienten y los mercados hablan, vas a poder tomar decisiones con meses de anticipación. No mires los votos, mirá a dónde va el dinero grande.
+**NARRADOR:** Para financiar esa fiesta, sin dólares en las reservas y sin acceso al crédito privado internacional, la única herramienta disponible sería volver a la vieja confiable: **la emisión monetaria**. La impresora de billetes.
 
-**[VISUAL: Cartel de Suscripción / Like de Pulso Político]**
-**AVATAR:** Si querés aprender a leer estas señales antes de que sea tapa de los diarios, suscribite a Pulso Político. Déjame en los comentarios: ¿Cuál creés que sería la primera medida que tomarían el Día 1 si vuelven al poder? Te leo ahí abajo. Nos vemos en la próxima.
+La inflación, que hoy busca estabilizarse, se dispararía alimentada por esa misma emisión. El "ancla fiscal" que Milei construyó a fuerza de ajuste se rompería en cuestión de semanas. Cualquier acuerdo o nuevo préstamo negociado con el **FMI** quedaría suspendido automáticamente. Y el cepo cambiario, que Milei intentaba desarmar, volvería con fuerza de titanio para evitar la fuga masiva de capitales.
+
+**[VISUAL: Billetera vacía. Gráfico de dólar blue disparándose.]**
+
+**NARRADOR:** La paradoja es brutal: la misma gente que festejó el congelamiento de tarifas en enero, en junio estaría viendo cómo la inflación les come el doble de lo que ahorraron en la boleta de luz.
+
+---
+
+## 🌍 [5:30 - 7:30] CAPÍTULO 3: Malvinas, Geopolítica y el Aislamiento
+
+**[VISUAL: Mapa del Atlántico Sur. Las Islas Malvinas iluminadas. Luego el mapa mostrando flechas desde Argentina virando hacia China y Rusia, alejándose de EEUU y Europa.]**
+
+**NARRADOR:** Y ahora el tema que más duele, el que más carga emocional tiene para nuestra audiencia y para millones de argentinos: **las Islas Malvinas**.
+
+La política exterior de Milei ha sido estratégicamente pro-occidental. El alineamiento con Estados Unidos, con Israel y el acercamiento histórico a la OTAN no son caprichos ideológicos: son una apuesta diplomática para negociar con el Reino Unido desde un lugar de "aliados del mismo bloque", buscando apoyo o al menos presión de Europa y Estados Unidos sobre Londres.
+
+**[VISUAL: Bandera del Reino Unido sobre las Malvinas. Imagen de buques militares ingleses.]**
+
+**NARRADOR:** Un regreso K revertiría ese mapa en 24 horas. Volverían los coqueteos con China, Rusia y los BRICS. El reingreso a los esquemas de alianzas que Occidente mira con desconfianza. Y eso tendría una consecuencia directa y demoledora: Argentina perdería cualquier mínimo apoyo diplomático europeo o norteamericano en su reclamo soberano sobre las islas.
+
+El Reino Unido aprovecharía ese aislamiento para militarizar aún más Malvinas, sabiendo que el gobierno en Buenos Aires es visto como un paria por la comunidad internacional. **La estrategia de seducción comercial y diplomática que se construye hoy se caería a pedazos.** No porque el reclamo sea menos legítimo, sino porque la cancha geopolítica sería completamente diferente.
+
+---
+
+## 🛑 [7:30 - 10:00] CAPÍTULO 4: El Check-List — Las 10 cosas que la clase trabajadora pierde
+
+**[VISUAL: Gráfico animado de check-list en pantalla. Cada ítem aparece y se tacha en rojo mientras el narrador lo menciona. Ritmo rápido, música de tensión.]**
+
+**NARRADOR:** Resumamos. Si el kirchnerismo regresa en 2027, financiando su fiesta de consumo con emisión, estas son las **10 reformas cotidianas** que desaparecerían y que afectan directamente a la clase trabajadora:
+
+**❌ 1. Planes sociales sin intermediarios.** Fin al pago directo a la gente. Vuelven los punteros políticos y líderes piqueteros a cobrar "peaje" sobre la plata de los planes. El trabajador informal vuelve a ser rehén de su organización política.
+
+**❌ 2. Esencialidad en Educación y Transporte.** Vuelven los paros salvajes sin servicio mínimo garantizado. Baradel recupera el poder de dejar a tus hijos sin clases cuando quiera. Moyano vuelve a cortar los trenes sin que la ley lo limite.
+
+**❌ 3. Ley de Alquileres derogada.** Regreso automático a esquemas de control que históricamente destruyeron la oferta de alquileres. Menos departamentos disponibles, precios de entrada más altos para cualquier familia que necesite mudarse.
+
+**❌ 4. Vuelos Low Cost — Cielos Abiertos.** Adiós a los vuelos baratos de cabotaje. Vuelve el monopolio de Aerolíneas Argentinas y los pasajes impagables para que una familia de clase media pueda volar de Buenos Aires a Mendoza.
+
+**❌ 5. Trámites automotores digitales.** Retorno a las "cajas políticas" de los registros seccionales, el papelerío interminable y los costos usureros para hacer una simple transferencia de un auto usado.
+
+**❌ 6. Libre importación — Fin de la SIRA.** Vuelven los bloqueos aduaneros, la corrupción en la aduana y el desabastecimiento de insumos médicos, tecnología y repuestos industriales que hoy entran sin trabas.
+
+**❌ 7. Libertad de precios en supermercados.** Retorno a los "Precios Cuidados" y controles de góndola, que históricamente terminaron en desabastecimiento, mercados negros y góndolas vacías.
+
+**❌ 8. Inversiones del RIGI.** Proyectos mineros, energéticos y tecnológicos congelados por el pánico inversor ante nuevos impuestos, retenciones o amenazas de expropiación.
+
+**❌ 9. Alineamiento con Occidente y reclamo por Malvinas.** Como vimos: aislamiento diplomático total y el reclamo soberano debilitado ante el mundo.
+
+**❌ 10. Déficit fiscal cero.** El ancla que hoy frena la hiperinflación, rota por completo para financiar la fiesta. Y una vez que se rompe ese ancla... ya sabemos cómo termina la historia en Argentina.
+
+---
+
+## 🔔 [10:00 - Fin] CONCLUSIÓN Y LLAMADO A LA ACCIÓN
+
+**[VISUAL: Avatar o presentador mirando a cámara. Fondo limpio. Tono reflexivo.]**
+
+**NARRADOR:** Un escenario de alivio inmediato a corto plazo, a un costo estructural altísimo a mediano y largo plazo. El kirchnerismo encontraría un Estado más chico, una sociedad más entrenada en economía básica... pero también una deuda en dólares, un FMI esperando resultados y un mundo geopolítico que no espera a nadie.
+
+Y hay una pregunta extra que te dejo en el comentario fijado: si el kirchnerismo vuelve en 2027, **¿llega con Cristina Fernández de Kirchner, con Axel Kicillof, o con alguien que todavía no vemos?** Porque el candidato cambia absolutamente todo el escenario.
+
+Déjame tu análisis ahí abajo. Si este tipo de geopolítica sin anestesia te sirve para entender lo que viene, dale like y suscríbete a Pulso Político. Nos vemos en el próximo episodio.
