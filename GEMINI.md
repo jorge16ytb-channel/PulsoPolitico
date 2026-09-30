@@ -13,7 +13,7 @@ Este archivo define las reglas obligatorias de empaque, títulos y miniaturas ap
 ## 2. Composición de Miniaturas (CTR Alto)
 - **Objeto protagónico:** Elementos tangibles cotidianos (recibos, facturas, tickets con precios en rojo) que materialicen el impacto en el bolsillo.
 - **Causalidad gráfica:** Mostrar el vínculo entre la causa macro (mapa térmico del océano Pacífico) y el efecto local (la boleta/ticket).
-- **Rostros:** Preferencia del canal por rostros femeninos (presentadora joven o expresión de resignación/incredulidad), ubicada a un costado y mirando al objeto central, sin robarle el protagonismo al objeto.
+- **Rostros:** Rostro con la expresión adecuada (ej. resignación o incredulidad), ubicado a un costado y mirando al objeto central, sin robarle el protagonismo al objeto.
 - **Textos:** Máximo 3 a 4 palabras, alto contraste (blanco con reborde negro o acento amarillo/rojo), legibles en celular.
 
 ## 3. Optimización Mobile de Títulos
