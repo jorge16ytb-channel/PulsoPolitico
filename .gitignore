@@ -11,6 +11,11 @@
 *.aep
 *.drp
 
+# Archivos de Office (se mantienen solo en local, no en GitHub)
+*.docx
+*.xlsx
+*.pptx
+
 # Archivos del sistema operativo y temporales
 Thumbs.db
 ehthumbs.db
